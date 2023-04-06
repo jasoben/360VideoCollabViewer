@@ -250,8 +250,8 @@ PlayerSettings:
   AndroidTargetArchitectures: 1
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: C:/RalphVR/Anthro Project/user.keystore
-  AndroidKeyaliasName: key
+  AndroidKeystoreName: '{inproject}: user.keystore'
+  AndroidKeyaliasName: video viewer key
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 0
   AndroidIsGame: 1
